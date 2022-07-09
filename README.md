@@ -1,6 +1,6 @@
 # NeetCode-solutions
 
-I will solve all the question provided by the youtuber neetcode and push all the solutions done by me.
+I will solve all the question provided by the youtuber neetcode and push all the solutions solved by me.
 
 
 👉 Questions site :- https://neetcode.io/
